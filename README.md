@@ -20,5 +20,3 @@ A console-based Java app that simulates a knockout tournament and keeps a **glob
 - **OOP**: classes, methods, encapsulation
 
 ---
-
-## Project Structure
